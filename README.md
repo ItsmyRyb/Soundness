@@ -1,6 +1,5 @@
 # Soundness Testnet Registration
-## Link :
-## https://soundness.xyz/
+## Link : [Soundness](https://soundness.xyz/)
 ## Submit your email
 
 # Generate Your Key here
@@ -30,10 +29,10 @@ soundness-cli generate-key --name my-key
 ```bash
 soundness-cli export-key --name my-key
 ```
-## ➖ Save your Phrase and Pub-Key
-## ➖ Join Discord (https://discord.gg/soundnesslabs)
-## ➖ Head to ⁠🐬│soundness-cockpit and use the /access command to submit your public key.
-##✅ Done!
+## Save your Phrase and Pub-Key
+## Join [Discord](https://soundness.xyz/)
+## Head to ⁠🐬│soundness-cockpit and use the /access command to submit your public key.
+## Done!
 
 ## Details: 
 ## https://x.com/SoundnessLabs/status/1902389758527152586
