@@ -1,7 +1,7 @@
 # Soundness Testnet Registration
 ## Link :
 ## https://soundness.xyz/
-## ➖ Submit your email
+## Submit your email
 
 # Generate Your Key here
 ```bash
